@@ -1,1 +1,94 @@
 dil e nadan tujhe hua kya hai...
+<html>
+
+        <head>
+				
+		     <title> First Web Page Ever</title>
+		
+		</head>
+				
+		<body>
+		
+			<h1> Hello World !</h1>
+			
+			<h2>Some Known fact about the earth</h2>
+			
+			<img src="earth.jpg" width="300" height="300">
+			
+			<p>Earth is not a perfect sphere. According to the National Oceanic and Atmospheric Administration (NOAA)(opens in new tab), as Earth spins, gravity points toward the center of our planet (assuming for explanation's sake that Earth is a perfect sphere), and a centrifugal force pushes outward. But since this gravity-opposing force acts perpendicular to the axis of Earth, and Earth's axis is tilted, centrifugal force at the equator is not exactly opposed to gravity. </p>
+			
+			<hr>
+
+				<h3>About the Earth</h3>
+				
+						<ul>
+						
+						<li>Average distance from the sun: 92,956,050 miles (149,598,262 km)</li>
+						<li>Perihelion (closest approach to the sun): 91,402,640 miles (147,098,291 km)</li>
+						<li>Aphelion (farthest distance from the sun): 94,509,460 miles (152,098,233 km)</li>
+						<li>Length of solar day (single rotation on its axis): 23.934 hours</li>
+						<li>Length of year (single revolution around the sun): 365.26 days</li>
+						<li>Equatorial inclination to orbit: 23.4393 degrees</li>
+						
+						</ul>
+						
+			<hr>
+			
+				<h3> Top 07 fact about the Earth</h3>
+				
+					<ol>
+					
+						<li>Earth is not a perfect sphere. ...</li>
+						<li>The circumference of Earth is 24,901 miles. ...</li>
+						<li>Earth has an uneven gravitational field. ...</li>
+						<li>Earth is a terrestrial planet. ...</li>
+						<li>Melting glaciers have an impact on Earth's shape. ...</li>
+						<li>The planet is constantly spinning. ...</li>
+						<li>Earth is about 4.54 billion years old...</li>
+					
+					</ol>
+					
+			<hr>
+			
+				<table>
+				
+				<thead>
+				
+					<tr>
+					
+						<th>Name</th>
+						<th>Radius</th>
+						<th>Temperature</th>
+					
+					</tr>
+				
+				</thead>
+			
+				<tbody>
+				
+					<tr>
+					
+					<td>Mars</td>
+					<td>3,403 Kms</td>
+					<td>-46&deg:c</td>
+					
+					</tr>
+				
+				
+				</tbody>
+			
+			</table>
+			
+			<form action="https://www.nasa.gov/stem-ed-resources/Extreme_Space_Facts.html">
+			
+			<p>Wants to Know more...???</p>
+			
+			<p><input type="Submit" value="Click Here!"></P>
+			
+			</form>
+			
+			<iframe width="400" height="200" src="https://www.youtube.com/embed/cwaKgUpjZE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			
+		</body>
+
+</html>
